@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeggySha
 - 👀 I’m interested in languages, finances, and socializing with my friends.
-- 🌱 I’m currently learning JavaScript and Java. 
+- 🌱 I’m currently learning JavaScript. 
 
 
 <!---
